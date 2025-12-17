@@ -1,1 +1,1 @@
-.\Install.bat
+.\Install.ps1
